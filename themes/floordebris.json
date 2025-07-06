@@ -9,8 +9,7 @@
     "background": {
         "blur_radius": 0,
         "overlay_alpha": 140,
-        "url": "https:\/\/raw.githubusercontent.com\/knxjeb1\/floordebris\/master\/backgrounds\/IMG_20250706_085037_(1015_x_2048_pixel).png"
-    },
+        "url": "https:\/\/raw.githubusercontent.com\/knxjeb1\/floordebris\/master\/IMG_20250706_085037_(1015_x_2048_pixel).png    },
     "fonts": {
         "whitney_medium": "https:\/\/github.com\/myumichi\/slate\/blob\/main\/fonts\/Mesclo-Medium.otf?raw=true",
         "whitney_bold": "https:\/\/github.com\/myumichi\/slate\/blob\/main\/fonts\/Mesclo-Bold.ttf?raw=true",
